@@ -2,6 +2,7 @@
 *.classpath
 *.class
 *.log
+*config.json
 **/.gradle/
 **/.settings/
 **/bin
