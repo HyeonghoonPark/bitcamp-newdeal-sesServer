@@ -1,10 +1,5 @@
-*.project
-*.classpath
-*.class
-*.log
 *config.json
-**/.gradle/
-**/.settings/
+*emaildao.js
 **/bin
 **/build
 **/temp/
